@@ -1,4 +1,4 @@
-<h2> Hi, my name is Kent Lim!
+<h2> Hi, my name is Kent!
 
 :envelope: tklim824@gmail.com
 
